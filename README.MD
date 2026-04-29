@@ -26,7 +26,7 @@ Un juego tipo *bullet hell* desarrollado en Python usando Pygame, con animación
 ### Opción 1 — Ejecutable (recomendado)
 
 Descargar desde la sección Releases:
-👉 *(link)*
+👉 *[link]https://github.com/Igo3003/Oh-Pera-El-Videojuego/releases*
 
 1. Descargar el `.zip`
 2. Extraer
